@@ -5,6 +5,6 @@ It has a moving top which can adjust up and down for 6 inches. It has additional
 Also, it has a stylus-based touchscreen display by which the presenter can explain his topic easily. Along with this, it has a full set mike set for giving presentations.
 The whole podium is controlled by a 3.5-inch Nextion display attached at the top of the podium and for protecting the full assembly, an RFID based lock is given in the top sliding of the podium.
 
-Role : Developer, Designer.
+<h3>Role : Developer, Designer.
 
-Technologies : Arduino, IOT, Circuitry and Equipment Integration.
+<h3>Technologies : Arduino, IOT, Circuitry and Equipment Integration.
